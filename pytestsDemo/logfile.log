@@ -1,0 +1,18 @@
+2021-02-15 15:33:38,420 : CRITICAL : __main__ : Critical issue
+2021-02-15 15:33:38,420 : INFO : __main__ : Info message
+2021-02-15 15:33:38,420 : WARNING : __main__ : warning message
+2021-02-15 15:33:38,420 : ERROR : __main__ : Error message
+2021-02-15 15:34:07,000 : CRITICAL : __main__ : Critical issue
+2021-02-15 15:34:07,000 : INFO : __main__ : Info message
+2021-02-15 15:34:07,016 : WARNING : __main__ : warning message
+2021-02-15 15:34:07,016 : ERROR : __main__ : Error message
+2021-02-15 15:53:17,860 : CRITICAL : pytestsDemo.test_logging : Critical issue
+2021-02-15 15:53:17,876 : INFO : pytestsDemo.test_logging : Info message
+2021-02-15 15:53:17,876 : WARNING : pytestsDemo.test_logging : warning message
+2021-02-15 15:53:17,876 : ERROR : pytestsDemo.test_logging : Error message
+2021-02-15 16:01:22,843 : CRITICAL : pytestsDemo.BaseClass : Critical issue
+2021-02-15 16:01:22,844 : INFO : pytestsDemo.BaseClass : Info message
+2021-02-15 16:01:22,844 : WARNING : pytestsDemo.BaseClass : warning message
+2021-02-15 16:01:22,844 : ERROR : pytestsDemo.BaseClass : Error message
+2021-02-15 16:01:22,844 : INFO : pytestsDemo.BaseClass : Anjali
+2021-02-15 16:01:22,845 : INFO : pytestsDemo.BaseClass : anjali@gamil.com
